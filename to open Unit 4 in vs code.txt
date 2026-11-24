@@ -1,0 +1,6 @@
+to open Unit 4 in vs code
+- go to unit 4 folder
+- right click on white space 
+- open in terminal
+- type code . 
+- press enter and wait 
